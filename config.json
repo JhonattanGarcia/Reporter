@@ -1,0 +1,10 @@
+{
+    "input_csv": "C:/Users/jhonattan.garcia/OneDrive - Appgate Inc/Documents/24ene24.csv",
+    "output_folder": "C:/Users/jhonattan.garcia/OneDrive - Appgate Inc/Desktop/Reportes diarios",
+    "output_tittle": "Análisis de Datos",
+    "test_mode": 1,
+    "top": 10,
+    "campo_fechas": "Creation Date",
+    "author": "Jhonattan Garcia"
+  }
+  
